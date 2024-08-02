@@ -33,6 +33,9 @@
 ![Bloc&Cubit](https://img.shields.io/badge/-Bloc-05122A?style=flat&logo=bloc)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=flutterboy20&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=flutterboy20&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <a href="https://komarev.com/ghpvc/?username=MustafaKammel&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=MustafaKammel&style=for-the-badge">
